@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75d1b47-5240-4dd1-93af-9d375840d9f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array2dPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Array2dPractice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array2dPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2dPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array2dPracticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2dPracticeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Array2dPracticeTest">
+  <component name="RunManager" selected="JUnit.Array2dPracticeTest.sumAllCellsBetween">
     <configuration name="Array2dPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2dPractice" />
       <module name="Array2dPractice" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Array2dPracticeTest" />
-        <item itemvalue="Application.Array2dPractice" />
         <item itemvalue="JUnit.Array2dPracticeTest.sumAllCellsBetween" />
-        <item itemvalue="JUnit.Array2dPracticeTest.sumColN" />
+        <item itemvalue="JUnit.Array2dPracticeTest" />
         <item itemvalue="JUnit.Array2dPracticeTest.sumRowN" />
+        <item itemvalue="Application.Array2dPractice" />
+        <item itemvalue="JUnit.Array2dPracticeTest.sumColN" />
       </list>
     </recent_temporary>
   </component>
@@ -131,5 +131,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Year_12_CS_2D_Array_Practice$Array2dPracticeTest_sumRowN.ic" NAME="Array2dPracticeTest.sumRowN Coverage Results" MODIFIED="1698626057684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Year_12_CS_2D_Array_Practice$Array2dPracticeTest.ic" NAME="Array2dPracticeTest Coverage Results" MODIFIED="1698626153826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Year_12_CS_2D_Array_Practice$Array2dPracticeTest_sumAllCellsBetween.ic" NAME="Array2dPracticeTest.sumAllCellsBetween Coverage Results" MODIFIED="1698633403034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
